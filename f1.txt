@@ -5,4 +5,4 @@ func(dd)
 aa
 bb
 branch_exp
-home exp stach
+home exp stash
