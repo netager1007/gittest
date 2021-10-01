@@ -1,3 +1,8 @@
 a
 branch_exp edited
+<<<<<<< Updated upstream
 home exp stash
+=======
+home master stash
+b
+>>>>>>> Stashed changes
